@@ -12,3 +12,10 @@ It is rather an attempt to follow the injunction of Henri Poincaré to let histo
 to be a first encounter with real analysis, laying out its context and motivation in terms of the transition
 from power series to those that are less predictable, especially Fourier series, and marking some of the traps
 into which even great mathematicians have fallen.* - Preface, pg. ix
+
+## Setup
+
+1. `mkvirtualenv --python=/usr/loca/bin/python3 bressoud-real-analysis`
+1. `pip3 install --upgrade pip`
+1. `pip3 install -r requirements.txt`
+
